@@ -8,16 +8,6 @@ This project is an AI-powered web scraper that fetches webpage content, extracts
 - Storage and retrieval using ChromaDB
 - Conversational AI interaction for querying the stored webpage data
 
-## Directory Structure
-
-```
-ashutoshvjti-web-scraper-ai-agent/
-│── docker-compose.yaml
-│── index.js
-│── package.json
-└── .env.example
-```
-
 ## Prerequisites
 
 Ensure you have the following installed:
@@ -30,8 +20,8 @@ Ensure you have the following installed:
 1. Clone this repository:
 
    ```sh
-   git clone https://github.com/your-username/ashutoshvjti-web-scraper-ai-agent.git
-   cd ashutoshvjti-web-scraper-ai-agent
+   git clone https://github.com/ashutoshvjti/web-scraper-ai-agent.git
+   cd web-scraper-ai-agent
    ```
 
 2. Install dependencies:
